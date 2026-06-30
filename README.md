@@ -1,4 +1,4 @@
-# Hi, I'm Maria-Triantafyllia Patentalaki 👋
+# Hi, I'm Maria Triantafyllia Patentalaki 👋
 
 Computational Biologist | Translational Research | Bioinformatics | Drug Discovery
 
