@@ -1,4 +1,6 @@
-# Hi, I’m Maria - Triantafyllia Patentalaki
+# Hi, I'm Maria-Triantafyllia Patentalaki 👋
+
+Computational Biologist | Translational Research | Bioinformatics | Drug Discovery
 
 I am a computational biologist and translational researcher with a background in biology, drug discovery, immunology, and multi-omics data analysis.
 
