@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I’m Maria - Triantafyllia Patentalaki
 
-<!--
-**mariapatentalaki/mariapatentalaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a computational biologist and translational researcher with a background in biology, drug discovery, immunology, and multi-omics data analysis.
 
-Here are some ideas to get you started:
+My work focuses on rare cutaneous lymphomas, biomarker discovery, transcriptomics, proteomics, and precision medicine. I use Python, R, and statistics to analyze complex biological and clinical datasets and translate them into biologically meaningful insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+
+* Computational biology
+* Translational immunology
+* Bioinformatics
+* Multi-omics analysis
+* Drug discovery
+* Biomarker discovery
+* Rare cutaneous lymphomas
+
+## Technical skills
+
+* Python
+* R
+* Statistics
+* Transcriptomics
+* Proteomics
+* Data visualization
+* Clinical research data analysis
